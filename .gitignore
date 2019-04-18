@@ -63,3 +63,12 @@ target/
 
 #Ipython Notebook
 .ipynb_checkpoints
+
+# dog images for CNN project
+projects/dog-project/dogImages.zip
+projects/dog-project/dogImages/
+projects/dog-project/lfw.zip
+projects/dog-project/lfw/
+projects/dog-project/bottleneck_features.zip
+projects/dog-project/bottleneck_features/
+projects/dog-project/__MACOSX/
